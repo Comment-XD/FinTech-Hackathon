@@ -4,4 +4,4 @@ This project is designed to detect bank transaction fraud more effecient and con
 
 You can include a diagram or screenshot to visually explain the architecture:
 
-![Architecture](assets/flowchart.png)
+![Architecture](assets/architecture.png)
